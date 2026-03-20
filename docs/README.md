@@ -27,7 +27,7 @@ Para la ejecución de este proyecto se requiere:
 * PHP Server 
 * Code Runner
 
-## 3. Ejecución de la Aplicación de Prueba
+## 3. EJECUCIÓN DE LA APLICACIÓN DE PRUEBA
 
 Para ejecutar la aplicación de prueba, seguir los siguientes pasos:
 
