@@ -42,3 +42,9 @@ Para ejecutar la aplicación de prueba, seguir los siguientes pasos:
 
 - También es posible ejecutar el programa desde Visual Studio Code, utilizando el botón de ejecución (Run Code) ubicado en la parte superior derecha del editor.
 - El programa ejecutará una serie de pruebas sobre la estructura de datos, mostrando en consola el funcionamiento de cada uno de los métodos implementados.
+
+## Autor
+Yahir Sebastian Quiroga Morales
+Universidad Pedagógica y Tecnológica de Colombia 
+Ingeniería de Sistemas y Computación
+
