@@ -44,7 +44,7 @@ Para ejecutar la aplicación de prueba, seguir los siguientes pasos:
 - El programa ejecutará una serie de pruebas sobre la estructura de datos, mostrando en consola el funcionamiento de cada uno de los métodos implementados.
 
 ## Autor
-Yahir Sebastian Quiroga Morales
-Universidad Pedagógica y Tecnológica de Colombia 
-Ingeniería de Sistemas y Computación
+- Yahir Sebastian Quiroga Morales
+- Universidad Pedagógica y Tecnológica de Colombia 
+- Ingeniería de Sistemas y Computación
 
