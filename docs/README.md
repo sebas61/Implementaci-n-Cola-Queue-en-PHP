@@ -1,4 +1,4 @@
-# IMPLEMENTACIÓN DE LA ESTRUCTURA DE DATOS COLA (QUEUE) EN PHP
+# Implementación de la estructura de datos Cola (Queue) en PHP
 
 ## 1. Descripción
 
