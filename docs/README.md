@@ -2,16 +2,17 @@
 
 ## 1. DESCRIPCIÓN
 
-Este proyecto consiste en la implementación de la estructura de datos Cola (Queue) en PHP. La cola sigue el principio FIFO (First In, First Out), que busca que el primer elemento en ingresar sea el primero en salir.
+Este proyecto consiste en la implementación de la estructura de datos Cola (Queue) en PHP. La cola sigue el principio **FIFO (First In, First Out)**, que busca que el primer elemento en ingresar sea el primero en salir.
 
 El desarrollo se realizó en el lenguaje de programación PHP, utilizando el paradigma de programación POO. La estructura se basa en la composición de nodos enlazados dinámicamente, permitiendo diferentes operaciones pero como principales la inserción y eliminación.
 
 Se implementan las siguientes funcionalidades:
-- Inserción de elementos (_push)
-- Eliminación de elementos (_pull)
-- Consulta del elemento al frente (_peek)
-- Verificación de si la cola está vacía (_isEmpty)
-- Cálculo del tamaño (_size)
+
+- **Inserción de elementos (_push):** permite agregar un elemento al final de la cola.
+- **Eliminación de elementos (_pull):** permite extraer el primer elemento de la cola.
+- **Consulta del elemento al frente (_peek):** permite visualizar el primer elemento sin eliminarlo.
+- **Verificación de si la cola está vacía (_isEmpty):** permite comprobar si la cola contiene elementos.
+- **Cálculo del tamaño (_size):** permite obtener la cantidad de elementos almacenados en la cola.
 
 ## 2. REQUERIMIENTOS DE SOFTWARE
 
@@ -31,8 +32,13 @@ Para la ejecución de este proyecto se requiere:
 Para ejecutar la aplicación de prueba, seguir los siguientes pasos:
 
 - Ubicarse en la carpeta raíz del proyecto.
-- Acceder a la ruta donde se encuentra el archivo principal:
+- Acceder a la carpeta del proyecto:
 
-* src/runner/ o ir al simbolo de play, y al lado derecho se encuentra una flecha la cual va desplegar opciones, entonces seleccionamos la primera (Run Code).
+`cd project\src\runner`
 
+- Ejecutar el archivo principal con el siguiente comando:
+
+`php main.php`
+
+- También es posible ejecutar el programa desde Visual Studio Code, utilizando el botón de ejecución (Run Code) ubicado en la parte superior derecha del editor.
 - El programa ejecutará una serie de pruebas sobre la estructura de datos, mostrando en consola el funcionamiento de cada uno de los métodos implementados.
