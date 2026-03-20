@@ -4,15 +4,17 @@
 
 Este proyecto consiste en la implementación de la estructura de datos Cola (Queue) en PHP. La cola sigue el principio **FIFO (First In, First Out)**, que busca que el primer elemento en ingresar sea el primero en salir.
 
-El desarrollo se realizó en el lenguaje de programación PHP, utilizando el paradigma de programación POO. La estructura se basa en la composición de nodos enlazados dinámicamente, permitiendo diferentes operaciones pero como principales la inserción y eliminación.
+El desarrollo se realizó en el lenguaje de programación PHP, el cual es un lenguaje de código abierto ampliamente utilizado para el desarrollo de aplicaciones web del lado del servidor. PHP permite la creación de programas dinámicos y es compatible con múltiples paradigmas de programación, en este caso, se utilizó el paradigma de programación orientado a objetos (POO).
+
+La estructura implementada se basa en la composición de nodos enlazados dinámicamente, lo que permite gestionar la memoria de forma flexible y eficiente. Gracias a este enfoque, se pueden realizar diferentes operaciones sobre la cola, siendo las principales la inserción y eliminación de elementos, manteniendo el orden característico del principio FIFO.
 
 Se implementan las siguientes funcionalidades:
 
-- **Inserción de elementos (_push):** permite agregar un elemento al final de la cola.
-- **Eliminación de elementos (_pull):** permite extraer el primer elemento de la cola.
-- **Consulta del elemento al frente (_peek):** permite visualizar el primer elemento sin eliminarlo.
-- **Verificación de si la cola está vacía (_isEmpty):** permite comprobar si la cola contiene elementos.
-- **Cálculo del tamaño (_size):** permite obtener la cantidad de elementos almacenados en la cola.
+- **Inserción de elementos (_push):**
+- **Eliminación de elementos (_pull):** 
+- **Consulta del elemento al frente (_peek):**
+- **Verificación de si la cola está vacía (_isEmpty):** 
+- **Cálculo del tamaño (_size):** 
 
 ## 2. Requerimientos de Software
 
