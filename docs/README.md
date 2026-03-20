@@ -1,6 +1,6 @@
-# Implementación de la estructura de datos Cola (Queue) en PHP
+# IMPLEMENTACIÓN DE LA ESTRUCTURA DE DATOS COLA (QUEUE) EN PHP
 
-## 1. DESCRIPCIÓN
+## 1. Descripción
 
 Este proyecto consiste en la implementación de la estructura de datos Cola (Queue) en PHP. La cola sigue el principio **FIFO (First In, First Out)**, que busca que el primer elemento en ingresar sea el primero en salir.
 
@@ -14,7 +14,7 @@ Se implementan las siguientes funcionalidades:
 - **Verificación de si la cola está vacía (_isEmpty):** permite comprobar si la cola contiene elementos.
 - **Cálculo del tamaño (_size):** permite obtener la cantidad de elementos almacenados en la cola.
 
-## 2. REQUERIMIENTOS DE SOFTWARE
+## 2. Requerimientos de Software
 
 Para la ejecución de este proyecto se requiere:
 - Instalar PHP versión 7 o superior.
@@ -27,7 +27,7 @@ Para la ejecución de este proyecto se requiere:
 * PHP Server 
 * Code Runner
 
-## 3. EJECUCIÓN DE LA APLICACIÓN DE PRUEBA
+## 3. Ejecución de la Aplicación de Prueba 
 
 Para ejecutar la aplicación de prueba, seguir los siguientes pasos:
 
